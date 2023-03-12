@@ -176,7 +176,7 @@ span {
       font-size: 1.4em;
   }
   .content-input:checked + .content-title > img {
-      max-height: 10.75rem;
+      max-height: 7rem;
       margin-bottom: 1.25rem;
   }
 }
